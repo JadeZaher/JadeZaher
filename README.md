@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JadeZaher
-- 👀 I’m interested in fullstack programming
-- 🌱 I’m currently learning postgressql
+- 👀 I'm a fullstack developer using node js, react, and nextjs to ship products
+- 🌱 I’m currently learning the t3 metaframework for next js
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me contact@ahmedzaher.net
 
