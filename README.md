@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning postgressql
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me contact@ahmedzaher.net
-- 
 
 <!---
 JadeZaher/JadeZaher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
