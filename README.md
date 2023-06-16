@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @JadeZaher
-- 👀 I'm a fullstack developer using node js, react, and nextjs to ship products
-- 🌱 I’m currently learning the t3 metaframework for next js
-- 💞️ I’m looking to collab on anything
+- 👋 Hi, I’m @JadeZaher I'm a fullstack developer 
+- 🌱 Recently started working at a utility company using C# and Asp.Net in Azure
+- 💞️ Love using react, vue, and svelte. 
+- 📚 Started learning Rust and Zig in 2023.
+- 🤞 Hoping to work AI automated vertical farming one day. 
 - 📫 Reach me at contact@ahmedzaher.net 
 - or check me out at [ahmedzaher.net](https://ahmedzaher.net/)
 <!---
