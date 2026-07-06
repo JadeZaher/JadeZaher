@@ -1,7 +1,7 @@
 <!-- ====== HEADER BANNER ====== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:4B0082,100:00C2FF&height=220&section=header&text=Jade%20Zaher&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Digital%20Artist%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20AI%20Agent%20Builder&descAlignY=60&descSize=18" alt="header"/>
+# Ahmed Zaher
 
 <!-- ====== TYPING ANIMATION ====== -->
 <a href="https://ahmedzaher.net">
