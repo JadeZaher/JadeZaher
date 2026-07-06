@@ -5,7 +5,7 @@
 
 <!-- ====== TYPING ANIMATION ====== -->
 <a href="https://ahmedzaher.net">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Jade+Zaher;Full-Stack+Developer+%26+Digital+Artist;Building+autonomous+AI+agents+%F0%9F%A4%96;C%23+%2F+.NET+%2F+Azure+%E2%80%A2+TypeScript+%E2%80%A2+Rust+%E2%80%A2+Go;Turning+ideas+into+systems+that+think" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Ahmed+Zaher;Full-Stack+Developer+%26+Digital+Artist;Building+autonomous+AI+agents+%F0%9F%A4%96;C%23+%2F+.NET+%2F+Azure+%E2%80%A2+TypeScript+%E2%80%A2+Rust+%E2%80%A2+Go;Turning+ideas+into+systems+that+think" alt="Typing SVG" />
 </a>
 
 <!-- ====== PROFILE STATS BADGES ====== -->
