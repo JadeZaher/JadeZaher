@@ -120,8 +120,6 @@
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-
 <br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:4B0082,100:8A2BE2&height=120&section=footer" alt="footer"/>
