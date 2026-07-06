@@ -120,10 +120,4 @@
 
 <div align="center">
 
-<br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:4B0082,100:8A2BE2&height=120&section=footer" alt="footer"/>
-
-⭐️ From [JadeZaher](https://github.com/JadeZaher)
-
-</div>
