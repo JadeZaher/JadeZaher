@@ -22,7 +22,7 @@
 ## 🚀 About Me
 
 - 🎨 **Digital Artist & Developer** — I live where design meets systems engineering
-- 🧠 Building **autonomous AI agents** & agentic memory ([`pi-mono`](https://github.com/JadeZaher/pi-mono), [`scrt-cli`](https://github.com/JadeZaher/scrt-cli), [`general-agentic-memory`](https://github.com/JadeZaher/general-agentic-memory))
+- 🧠 Building **autonomous AI agents** & agentic memory ( [`scrt-cli`](https://github.com/JadeZaher/scrt-cli))
 - 💼 Shipping production software in **C# / ASP.NET / Azure** at a utility company
 - 💞️ In love with **React, Vue & Svelte** on the front end
 - 📚 Going deeper on **Rust & Go** for high-performance tooling
