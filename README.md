@@ -35,7 +35,7 @@
 
 <div align="center">
 
-<a href="https://ahmedzaher.net"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"/></a>
+<a href="https://escherbridge.com"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:contact@ahmedzaher.net"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/JadeZaher"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
@@ -81,10 +81,6 @@
 ![PyTorch](https://skillicons.dev/icons?i=pytorch)
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 ![Git](https://skillicons.dev/icons?i=git)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Bash](https://skillicons.dev/icons?i=bash)
-![Figma](https://skillicons.dev/icons?i=figma)
-
 </div>
 
 ---
