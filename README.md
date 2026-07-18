@@ -27,7 +27,7 @@
 - 💞️ In love with **React, Vue & Svelte** on the front end
 - 📚 Going deeper on **Rust & Go** for high-performance tooling
 - 🌱 Dreaming about **AI-automated vertical farming** one day
-- 📫 Reach me at **contact@ahmedzaher.net** or **[ahmedzaher.net](https://ahmedzaher.net/)**
+- 📫 Reach me at **contact@ahmedzaher.net** or **[escherbridge.com](https://escherbridge.com/)**
 
 ---
 
